@@ -84,7 +84,7 @@ Input (224×224×3)
 | TFLite FP16 | 16.19 |
 | TFLite INT8 | 8.11 |
 
-<img width="932" height="732" alt="image" src="https://github.com/user-attachments/assets/f19fcc38-ace8-4ca8-9498-be20bea5b72f" />
+<img width="927" height="663" alt="image" src="https://github.com/user-attachments/assets/79bc3471-695f-4754-8e11-2284389df5c7" />
 
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2623e927-b0d9-4478-bcd8-648576a80485" />
